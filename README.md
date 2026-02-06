@@ -1,2 +1,28 @@
-# Counter-App-
-A simple counter app built using HTML, CSS, and JavaScript.
+# Counter App
+
+This is a simple Counter Application created using HTML, CSS, and JavaScript.  
+It allows users to increase, decrease, and reset a number using buttons.
+
+## Features
+- Increase counter
+- Decrease counter
+- Reset counter
+- Clean and beginner-friendly UI
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+(Add your GitHub Pages live link here)
+
+## Purpose
+This project is made for learning JavaScript basics like:
+- DOM manipulation
+- Event handling
+- Variables and functions
+
+## Author
+Pragati Kashyap
+
