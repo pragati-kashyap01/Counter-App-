@@ -15,7 +15,7 @@ It allows users to increase, decrease, and reset a number using buttons.
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages live link here)
+https://pragati-kashyap01.github.io/Counter-App-/
 
 ## Purpose
 This project is made for learning JavaScript basics like:
