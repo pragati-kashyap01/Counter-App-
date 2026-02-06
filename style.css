@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+ background: linear-gradient(135deg, #f9f7c9, #d7c0f5);
+ font-family: serif;
+}
+
+.container{
+    border: 2px solid rgb(29, 2, 66);
+padding: 40px;
+text-align: center;
+background-color: rgb(210, 193, 231);
+width: 350px;
+
+
+}
+.label{
+    font-family: serif;
+    
+    margin: 20px 0;
+}
+
+.buttons button{
+    margin: 5px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-family: serif;
+    border-radius: 20px;
+    
+   background: linear-gradient(to right, #d5c5ee, #773cdc);
+}
+.buttons button:hover{
+    transform: scale(1.05);
+    
+}
+
+
+
